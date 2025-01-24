@@ -3,7 +3,7 @@
 
 # Modular Crypto Dash
 
-<img src='./@Resources/images/readme/modular-crypto-dash-main.png' width='100%' >
+<img src='./@Resources/images/examples/modular-crypto-dash-main.png' width='100%' >
 
 ![GitHub Release](https://img.shields.io/github/v/release/sndrt/Modular-Crypto-Dash) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sndrt/Modular-Crypto-Dash/total) ![GitHub License](https://img.shields.io/github/license/sndrt/Modular-Crypto-Dash)
 
@@ -15,11 +15,11 @@ A simple rainmeter skin to track live crypto prices right on your desktop using 
 
 > Vertical Orientation
 >
-> <img src='./@Resources/images/readme/modular-crypto-dash-vertical.png' width='100%' >
+> <img src='./@Resources/images/examples/modular-crypto-dash-vertical.png' width='100%' >
 
 > Horizontal Orientation
 >
-> <img src='./@Resources/images/readme/modular-crypto-dash-horizontal.png' width='100%' >
+> <img src='./@Resources/images/examples/modular-crypto-dash-horizontal.png' width='100%' >
 
 - Track multiple cryptocurrencies with real-time price data from Binance.
 - Modular design with customizable tokens.
@@ -42,18 +42,22 @@ A simple rainmeter skin to track live crypto prices right on your desktop using 
 1. Download and install the latest version of [Rainmeter](https://www.rainmeter.net/).
 2. Download the latest release of Modular Crypto Dash [here]().
 3. Double-click the .rmskin file to install
-4. To edit tokens info, navigate to the **@Resources** folder and edit the variables.ini file, or simply right-click any token and click Edit Token Info from the context menu.
+4. To edit tokens info, navigate to the **@Resources** folder and edit the **variables.ini** file, or simply *right-click* any token and click **Edit Token Info** from the context menu.
 
 <br>
 
 ## 💻 Configuration
 
-The variables.ini file in the @Resources folder contains all the customizable settings for the skin. This includes:
+The **variables.ini** file in the **@Resources** folder contains all the customizable settings for the skin. This includes:
 
 - **Update Speed:** Controls how often the data is fetched from Binance's API.
 - **Token Settings:** Set the tokens you want to track (e.g., BTC, ETH, XRP, etc.).
 - **Font Settings:** Customize the font type, size, and color.
 - **General Settings:** Adjust the skin’s background size, opacity, scale, etc.
+- **Token Name Mapping**: If your token's full asset name is not mapped, you can add it to the token name mapping list in the variables.ini file.
+- **Pre-loaded Token Data**: If your token's logo is not pre-loaded, you can add it to the @Resources/images/token logos folder it to show up.
+
+If you're familiar with Rainmeter skins, you can also make adjustments in the token ini files.
 
 <br>
 
