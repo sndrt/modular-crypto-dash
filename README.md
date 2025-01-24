@@ -5,7 +5,7 @@
 
 <img src='./@Resources/images/examples/modular-crypto-dash-main.png' width='100%' >
 
-![GitHub Release](https://img.shields.io/github/v/release/sndrt/Modular-Crypto-Dash) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sndrt/Modular-Crypto-Dash/total) ![GitHub License](https://img.shields.io/github/license/sndrt/Modular-Crypto-Dash)
+![GitHub Release](https://img.shields.io/github/v/release/sndrt/modular-crypto-dash) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sndrt/modular-crypto-dash/total) ![GitHub License](https://img.shields.io/github/license/sndrt/modular-crypto-dash)
 
 A simple rainmeter skin to track live crypto prices right on your desktop using the Binance API. This is my first Rainmeter widget, and it's still a work in progress.
 
